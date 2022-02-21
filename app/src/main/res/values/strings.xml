@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Recycler app</string>
+
+    <string-array name="person_name">
+        <item>shaik</item>
+        <item>Azeer</item>
+        <item>Saheb</item>
+        <item>shaik</item>
+        <item>Azeer</item>
+        <item>Saheb</item>
+        <item>shaik</item>
+        <item>Shaik</item>
+        <item>Macca</item>
+        <item>Madina</item>
+    </string-array>
+
+    <string-array name="about">
+        <item>in a desert valley in western Saudi Arabia</item>
+        <item>in a desert valley in western Saudi Arabia</item>
+        <item>in a desert valley in western Saudi Arabia</item>
+        <item>in a desert valley in western Saudi Arabia</item>
+        <item>in a desert valley in western Saudi Arabia</item>
+        <item>in a desert valley in western Saudi Arabia</item>
+        <item>in a desert valley in western Saudi Arabia</item>
+        <item>in a desert valley in western Saudi Arabia</item>
+        <item>in a desert valley in western Saudi Arabia</item>
+        <item>in a desert valley in western Saudi Arabia</item>
+    </string-array>
+</resources>
